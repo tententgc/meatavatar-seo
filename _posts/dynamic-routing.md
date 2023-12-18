@@ -1,13 +1,13 @@
 ---
 title: 'Meat Avartar แบรนด์ไทยที่อยากให้คนไทยได้กินเนื้อจากผัก'
-excerpt: 'L'
+excerpt: 'Meat Avatar แบรนด์คนไทยผลิดเนื้อผักธรรมชาติรุ่นใหม่ ที่เน้นใช้วัตถุดิบไทยเพื่อให้คนไทยสามารถเข้าถึงได้ง่าย ในราคาที่จังบต้องได้ถึงมือคุณใน SuperMarket ใกล้บ้านคุณ'
 coverImage: '/assets/blog/dynamic-routing/Meatavatar.webp'
 date: '2023-12-19T05:35:07.322Z'
 author:
   name: tententgc- Thanyapisit Buaprakhong 
   picture: '/assets/blog/authors/jj.jpeg'
 ogImage:
-  url: '/assets/blog/dynamic-routing/cover.jpg'
+  url: '/assets/blog/dynamic-routing/Meatavatar.webp'
 
 ---
 
