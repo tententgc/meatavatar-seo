@@ -7,7 +7,7 @@ author:
   name: tententgc- Thanyapisit Buaprakhong 
   picture: '/assets/blog/authors/jj.jpeg'
 ogImage:
-  url: '/assets/blog/dynamic-routing/Meatavatar.webp'
+  url: '[/assets/blog/dynamic-routing/Meatavatar.webp](https://mungkudbit.s3.ap-southeast-1.amazonaws.com/images/MeatAvatar_201004_33.webp)'
 
 ---
 
